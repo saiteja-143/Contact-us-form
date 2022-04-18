@@ -1,0 +1,54 @@
+.container-1{
+
+  text-align: center;
+  border:2px solid blue;
+  width:50%;
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(111, 252, 95);
+  
+}
+.heading{
+  text-align: center;
+  /* color:green; */
+  padding-top: 250px;
+  
+}
+#top-heading{
+  color: red;
+  
+}
+.topcontainer-1{
+  padding-top: 50px;
+  text-align: center;
+  padding-left: 32%;
+
+
+}
+#sub-head{
+padding-bottom: 50px;
+}
+.tags1{
+  background-color: aqua;
+  margin-left: 3%;
+ 
+}
+.tags2{
+  background-color: aqua;
+  margin-left:2% ;
+ 
+}
+.tags3{
+  background-color: aqua;
+  margin-left:5% ;
+ 
+}
+.tags4{
+  background-color: aqua;
+  margin-left:2% ;
+ 
+}
+.tags5{
+  background-color: aqua;
+  margin-left:2% ;
+ 
+}
